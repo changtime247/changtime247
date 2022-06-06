@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently open to help work on OPEN SOURCE projects
 
-- 👨‍💻 All of my projects are available at [www.changtime247.com](www.changtime247.com)
+- 👨‍💻 All of my projects are available at [changtime247.com](https://www.changtime247.com)
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
-- 📫 How to reach me **changtime247@gmail.com**
+- 📫 Email me at **changtime247@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
