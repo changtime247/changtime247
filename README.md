@@ -26,7 +26,5 @@ Interested in Cloud computing ☁️, DevOps, Open Source 📜, Innovation and A
 <code><img width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=changtime247&show_icons=true&locale=en&layout=compact&theme=dracula" alt="changtime247" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=changtime247&show_icons=true&locale=en&theme=dracula" alt="changtime247" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=changtime247&show_icons=true&locale=en&theme=dracula" alt="changtime247" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=changtime247&theme=dracula" alt="changtime247" /></p>
