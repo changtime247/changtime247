@@ -3,7 +3,7 @@
 I love building cool apps and exploring new technologies. 
 Interested in Cloud computing ☁️, DevOps, Open Source 📜, Innovation and Automation 🤖
 
-- 🔭 Current project: spelling app for early readers - MERN stack
+- 🔭 Current project: Expanding spelling app for early readers
 - 🌱 Currently learning Next.js
 - 💬 Ask me about whatever. I'm happy to help!
 - 👯 Willing to collaborate on Web Dev Projects. Just lmk.
