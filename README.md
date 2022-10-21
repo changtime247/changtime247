@@ -38,9 +38,9 @@
   </a>  
   <a href="https://thinkers-coffee-beans.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>fff
+  </a>
       </p>
-        <p><strong>Node.js Express React Redux MongoDB</strong> <br/>Ecommerce store for coffee beans. Coffee for thought, and consumption.</p>
+        <p><strong>Node.js Express React Redux MongoDB</strong> <br/>Ecommerce store for coffee beans. Coffee for thought, and consumption too.</p>
     </td>
     <td width="33%" valign="top" align='center'>
       <h3 align="center">Spell a 'Moji</h3>
@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React Bootstrap</strong><br/>Over 400 emojis to spell. Good for early learners and non-native-English speakers.</p>
+        <p><strong>React Bootstrap</strong><br/>Over 400 emojis/ words to learn to spell. Good for early learners and new-to-English speakers.</p>
     </td>
     <td width="33%" valign="top" align='center'>
       <h3 align="center">peekAFlick</h3>
