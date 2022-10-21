@@ -1,4 +1,4 @@
-![ghbanner](https://user-images.githubusercontent.com/86252224/197269800-8a53b39b-4cb2-4967-8a6d-4c1501c55e37.png)
+![Beige Modern Elegant Personal LinkedIn Banner (3)](https://user-images.githubusercontent.com/86252224/197278093-6f5130fd-7104-4d66-aa36-ce0479aa0df6.png)
 
 <p align="center">
   <a href="https://www.changtime247.com" target="_blank" >
