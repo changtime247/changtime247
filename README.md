@@ -1,4 +1,4 @@
-![Beige Modern Elegant Personal LinkedIn Banner (3)](https://user-images.githubusercontent.com/86252224/197278093-6f5130fd-7104-4d66-aa36-ce0479aa0df6.png)
+![changtime247_swe](https://user-images.githubusercontent.com/86252224/197307649-5d6919ac-cf37-48de-9f0d-bbc39d558ebc.png)
 
 <p align="center">
   <a href="https://www.changtime247.com" target="_blank" >
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<p align='center'>Software Engineer in NYC motivated by creative business products and solutions <br/>with a background in business-management and philosophy-logic.<br/>Check out <a href="https://www.changtime247.com">my website</a> for more info!</p>
+<p align='center'>Software Engineer in NYC motivated by creative business products and solutions <br/>with a background in business-management and philosophy/ logic.<br/>Check out <a href="https://www.changtime247.com">my website</a> for more info!</p>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#37b5ff">
