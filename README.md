@@ -13,7 +13,7 @@
   <a href="https://angel.co/u/changtime247" target="_blank">
       <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/angellist.svg" width="50" height="50">
   </a>
-  <a href="https://changtime247.com/images/Andrew%20Chang%20O2022.pdf" target="_blank">
+  <a href="https://changtime247.com/images/Andrew%20Chang%20-%20Resume.pdf" target="_blank">
       <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file-pdf.svg" width="50" height="50">
   </a>
 </p>
