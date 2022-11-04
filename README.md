@@ -117,7 +117,7 @@
         <p><strong>JQuery</strong><br/>Visual learning tool to teach simple multiplication using the concept of rows and columns.</p>
     </td>
     <td width="33%" valign="top" align='center'>
-      <h3 align="center">peekAFlick</h3>
+      <h3 align="center">Changtime247</h3>
       <br />
         <a target="_blank" href="https://changtime247.com/">
           <img src="./s/personalSiteScreenshot.png" width="100%" alt="changtime247"/>
