@@ -79,6 +79,62 @@
     </td>
 
   </tr>
+  <tr>
+    <td width="33%" valign="top" align='center'>
+      <h3 align="center">OG Pokedex</h3>
+        <br />
+        <a target="_blank" href="https://ogpokedex.netlify.app/">
+            <img src="s/ogpokedex.png" width="100%" alt="Pokedex"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/changtime247/OG-Pokedex" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=184f72&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://ogpokedex.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React CSS</strong> <br/>A digital catalog of various pokemon species. Gotta catch 'em all - at least the OG ones.</p>
+    </td>
+    <td width="33%" valign="top" align='center'>
+      <h3 align="center">Multipiu</h3>
+        <br />
+      <a target="_blank" href="https://multipiu.pages.dev/">
+            <img src="./s/multipiu.png" width="100%"  alt="multipiu multiplication"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/changtime247/Multipiu" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=184f72&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://multipiu.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>JQuery</strong><br/>Visual learning tool to teach simple multiplication using the concept of rows and columns.</p>
+    </td>
+    <td width="33%" valign="top" align='center'>
+      <h3 align="center">peekAFlick</h3>
+      <br />
+        <a target="_blank" href="https://changtime247.com/">
+          <img src="./s/personalSiteScreenshot.png" width="100%" alt="changtime247"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/changtime247/changtime247" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=184f72&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://changtime247.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript</strong><br/>www.changtime247.com<br/>- my personal site</p>
+    </td>
+
+  </tr>
 </table>
 
 <h1 align="center">Technologies</h1>
