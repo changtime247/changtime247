@@ -1,4 +1,4 @@
-![changtime247_banner](https://user-images.githubusercontent.com/86252224/199871578-67aa81a2-10d6-4865-a487-0274780aa7ec.png)
+![changtime247-newbanner](https://user-images.githubusercontent.com/86252224/199872305-50f964a6-a567-4d65-8080-1a95dff6ac36.png)
 
 <p align="center">
   <a href="https://www.changtime247.com" target="_blank" >
