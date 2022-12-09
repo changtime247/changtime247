@@ -27,7 +27,7 @@
     <td width="33%" valign="top" align='center'>
       <h3 align="center">Thinker's Coffee Beans</h3>
         <br />
-        <a target="_blank" href="https://thinkers-coffee-beans.herokuapp.com/">
+        <a target="_blank" href="https://thinkerscoffeebeans.onrender.com/">
             <img src="s/thinkersGithubPhoto.png" width="100%" alt="Ecommerce Coffee Bean Shop"/>
         </a>
         <br />
@@ -36,7 +36,7 @@
   <a href="https://github.com/changtime247/ThinkersCoffeeBeans" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=184f72&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://thinkers-coffee-beans.herokuapp.com/" target="_blank">
+  <a href="https://thinkerscoffeebeans.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
