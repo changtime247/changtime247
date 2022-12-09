@@ -22,7 +22,6 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#37b5ff">
-  
   <tr>
     <td width="33%" valign="top" align='center'>
       <h3 align="center">Thinker's Coffee Beans</h3>
@@ -32,7 +31,6 @@
         </a>
         <br />
         <p align="center">
-          
   <a href="https://github.com/changtime247/ThinkersCoffeeBeans" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=184f72&style=plastic&logo=github&logo-color=white"/>
   </a>  
@@ -40,7 +38,24 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Node.js Express React Redux MongoDB</strong> <br/>Ecommerce store for coffee beans. Coffee for thought, and consumption too.</p>
+        <p><strong>Node.js Express React Redux MongoDB</strong> <br/>Fullstack ecommerce store for coffee beans. </p>
+    </td>
+    <td width="33%" valign="top" align='center'>
+      <h3 align="center">MechKey</h3>
+      <br />
+        <a target="_blank" href="https://mechkey.netlify.app/">
+          <img src="./s/mechkey-front.png" width="100%" alt="mechkey"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/changtime247/MechKey" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=184f72&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://mechkey.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React Redux Styled-components</strong><br/>Frontend ecommerce store for mechanical keyboards.</p>
     </td>
     <td width="33%" valign="top" align='center'>
       <h3 align="center">Spell a 'Moji</h3>
@@ -50,17 +65,18 @@
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/changtime247/SpellAMoji" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=184f72&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://www.spellamoji.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+        <a href="https://github.com/changtime247/SpellAMoji" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=184f72&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://www.spellamoji.com/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
       </p>
-        <p><strong>React Bootstrap</strong><br/>Over 400 emojis/ words to learn to spell. Good for early learners and new-to-English speakers.</p>
+        <p><strong>React Bootstrap</strong><br/>Over 400 emojis/ words to learn to spell for students.</p>
     </td>
-    <td width="33%" valign="top" align='center'>
+  </tr>
+  <tr>
+      <td width="33%" valign="top" align='center'>
       <h3 align="center">peekAFlick</h3>
       <br />
         <a target="_blank" href="https://peekaflick.netlify.app/">
@@ -75,11 +91,8 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React CSS</strong><br/>Search any movie by title. Preview the movie.</p>
+        <p><strong>React CSS</strong><br/>Search any movie by title and preview the movie.</p>
     </td>
-
-  </tr>
-  <tr>
     <td width="33%" valign="top" align='center'>
       <h3 align="center">OG Pokedex</h3>
         <br />
@@ -96,7 +109,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React CSS</strong> <br/>A digital catalog of various pokemon species. Gotta catch 'em all - at least the OG ones.</p>
+        <p><strong>React CSS</strong> <br/>A digital catalog of various pokemon species.</p>
     </td>
     <td width="33%" valign="top" align='center'>
       <h3 align="center">Multipiu</h3>
@@ -114,24 +127,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JQuery</strong><br/>Visual learning tool to teach simple multiplication using the concept of rows and columns.</p>
-    </td>
-    <td width="33%" valign="top" align='center'>
-      <h3 align="center">Changtime247</h3>
-      <br />
-        <a target="_blank" href="https://changtime247.com/">
-          <img src="./s/personalSiteScreenshot.png" width="100%" alt="changtime247"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/changtime247/changtime247" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=184f72&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://changtime247.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, JavaScript</strong><br/>www.changtime247.com<br/>- my personal site</p>
+        <p><strong>JQuery</strong><br/>Visual learning tool for simple multiplication using rows and columns.</p>
     </td>
 
   </tr>
