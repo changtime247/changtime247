@@ -1,24 +1,21 @@
 ![Black Minimalist](https://user-images.githubusercontent.com/86252224/210464204-c9abfdbb-7c07-41fc-940a-52e09bf48a00.png)
 
 <p align="center">
-  <a href="https://www.changtime247.com" target="_blank" >
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="50" height="50">
+  <a href="https://www.changtime247.com" target="_blank" style="background-color:white;">
+      <img src="https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/home.svg" width="75" height="50">
   </a>
   <a href="https://www.linkedin.com/in/changtime247/" target="_blank">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50">
+      <img src="https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/linkedin.svg" width="75" height="50">
   </a>
   <a href="https://twitter.com/changtime247" target="_blank">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" width="50" height="50">
+      <img src="https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/twitter.svg" width="75" height="50">
   </a>
   <a href="https://angel.co/u/changtime247" target="_blank">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/angellist.svg" width="50" height="50">
-  </a>
-  <a href="https://changtime247.com/images/Andrew%20Chang%20-%20Resume.pdf" target="_blank">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file-pdf.svg" width="50" height="50">
+      <img src="https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/angellist.svg" width="75" height="50">
   </a>
 </p>
 
-<p align='center'>Software Engineer in NYC motivated by creative business products and solutions <br/>with a background in business-management and philosophy/ logic.<br/>Check out <a href="https://www.changtime247.com">my website</a> for more info!</p>
+<p align='center'>Software Engineer in NYC motivated by creative business products and solutions <br/>with a background in business-management and philosophy-logic.<br/>Check out <a href="https://www.changtime247.com">my website</a> for more info!</p>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#37b5ff">
