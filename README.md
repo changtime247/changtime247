@@ -1,4 +1,4 @@
-![bannerblack](https://user-images.githubusercontent.com/86252224/199873712-5329cb3e-ac84-474f-add7-371c17366a07.png)
+![Black Minimalist](https://user-images.githubusercontent.com/86252224/210464204-c9abfdbb-7c07-41fc-940a-52e09bf48a00.png)
 
 <p align="center">
   <a href="https://www.changtime247.com" target="_blank" >
