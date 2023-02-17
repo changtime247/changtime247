@@ -91,22 +91,21 @@
         <p><strong>React CSS</strong><br/>Search any movie by title and preview the movie.</p>
     </td>
     <td width="33%" valign="top" align='center'>
-      <h3 align="center">OG Pokedex</h3>
+      <h3 align="center">HackerNews</h3>
         <br />
-        <a target="_blank" href="https://ogpokedex.netlify.app/">
-            <img src="s/ogpokedex.png" width="100%" alt="Pokedex"/>
+        <a target="_blank" href="https://hackernewsalgolia.netlify.app/">
+            <img src="s/hackernewsalgolia.png" width="100%" alt="Hackernewsalgolia"/>
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/changtime247/OG-Pokedex" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=184f72&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://ogpokedex.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React CSS</strong> <br/>A digital catalog of various pokemon species.</p>
+        <a href="https://github.com/changtime247/hackerNews" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=184f72&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://hackernewsalgolia.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+        </p>
+        <p><strong>React CSS</strong> <br/>Search for HackerNews tech articles.</p>
     </td>
     <td width="33%" valign="top" align='center'>
       <h3 align="center">Multipiu</h3>
