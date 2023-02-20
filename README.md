@@ -123,7 +123,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2c90cc&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Vite-React Node.js Express</strong><br/>App to learn the historic tenets of Christianity.</p>
+        <p><strong>Vite-React Node.js Express Tailwindcss</strong><br/>App to learn the historic tenets of Christianity.</p>
     </td>
 
   </tr>
